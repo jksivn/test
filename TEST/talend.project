@@ -7,6 +7,48 @@
     <documentationStatus xmi:id="_lpvW4PGFEei-nKg5XxiDmA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_lpvW4fGFEei-nKg5XxiDmA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_lpvW4vGFEei-nKg5XxiDmA" label="validated" code="VAL"/>
+    <statAndLogsSettings xmi:id="_Atcl0PIrEei2Hv043NpqLg">
+      <parameters xmi:id="_Atdz8PIrEei2Hv043NpqLg">
+        <elementParameter xmi:id="_AnbgkPIvEei2Hv043NpqLg" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgkfIvEei2Hv043NpqLg" field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgkvIvEei2Hv043NpqLg" field="CHECK" name="ON_STATCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_Anbgk_IvEei2Hv043NpqLg" field="CHECK" name="ON_LOGCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AnbglPIvEei2Hv043NpqLg" field="CHECK" name="ON_METERCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AnbglfIvEei2Hv043NpqLg" field="CHECK" name="ON_CONSOLE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_AnbglvIvEei2Hv043NpqLg" field="CHECK" name="ON_FILES_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_Anbgl_IvEei2Hv043NpqLg" field="DIRECTORY" name="FILE_PATH" value="&quot;/home/jasiv/Talend/Talend-Studio-20180411_1414-V7.0.1/workspace/.metadata&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgmPIvEei2Hv043NpqLg" field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgmfIvEei2Hv043NpqLg" field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgmvIvEei2Hv043NpqLg" field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_Anbgm_IvEei2Hv043NpqLg" field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgnPIvEei2Hv043NpqLg" field="CHECK" name="ON_DATABASE_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgnfIvEei2Hv043NpqLg" field="PROPERTY_TYPE" name="PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgnvIvEei2Hv043NpqLg" field="CLOSED_LIST" name="DB_TYPE" value="tMSSqlOutput" contextMode="false"/>
+        <elementParameter xmi:id="_Anbgn_IvEei2Hv043NpqLg" field="CLOSED_LIST" name="DB_VERSION" value="JTDS" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgoPIvEei2Hv043NpqLg" field="TEXT" name="URL" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgofIvEei2Hv043NpqLg" field="TABLE" name="DRIVER_JAR" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgovIvEei2Hv043NpqLg" field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_Anbgo_IvEei2Hv043NpqLg" field="TEXT" name="HOST" value="&quot;grebdd03.even.fr&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgpPIvEei2Hv043NpqLg" field="TEXT" name="PORT" value="&quot;1433&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgpfIvEei2Hv043NpqLg" field="TEXT" name="DBNAME" value="&quot;amc_701_dev&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgpvIvEei2Hv043NpqLg" field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_Anbgp_IvEei2Hv043NpqLg" field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgqPIvEei2Hv043NpqLg" field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AnbgqfIvEei2Hv043NpqLg" field="TEXT" name="USER" value="&quot;talend_dev&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AncHoPIvEei2Hv043NpqLg" field="PASSWORD" name="PASS" value="bpjuLi2tDsbV9VpK90Mx6Q==" contextMode="false"/>
+        <elementParameter xmi:id="_AncHofIvEei2Hv043NpqLg" field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AncHovIvEei2Hv043NpqLg" field="DBTABLE" name="TABLE_STATS" value="&quot;tstatcatcher&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AncHo_IvEei2Hv043NpqLg" field="DBTABLE" name="TABLE_LOGS" value="&quot;tlogcatcher&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AncHpPIvEei2Hv043NpqLg" field="DBTABLE" name="TABLE_METER" value="&quot;tflowmetercatcher&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_AncHpfIvEei2Hv043NpqLg" field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AncHpvIvEei2Hv043NpqLg" field="CHECK" name="CATCH_USER_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AncHp_IvEei2Hv043NpqLg" field="CHECK" name="CATCH_USER_WARNING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AncHqPIvEei2Hv043NpqLg" field="CHECK" name="CATCH_REALTIME_STATS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_AncHqfIvEei2Hv043NpqLg" field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_AncHqvIvEei2Hv043NpqLg" field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" value="REPOSITORY" contextMode="false"/>
+        <elementParameter xmi:id="_AncHq_IvEei2Hv043NpqLg" field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </statAndLogsSettings>
     <ItemsRelations xmi:id="_8ktd0PGFEei-nKg5XxiDmA">
       <baseItem xmi:id="_8ktd0fGFEei-nKg5XxiDmA" id="_xGNaMPGFEei-nKg5XxiDmA" version="0.1" type="job"/>
       <relatedItems xmi:id="_8ktd0vGFEei-nKg5XxiDmA" id="SQLike" version="Latest" type="routine"/>
